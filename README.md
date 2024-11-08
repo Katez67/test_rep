@@ -1,1 +1,1 @@
-It is a simple test repository/
+It is a simple test repository.
